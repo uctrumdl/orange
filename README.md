@@ -1,2 +1,3 @@
-July 2026
+## July 2026
 - Exploring IPFS fundamentals.
+- Learning about blockchain bridges.
