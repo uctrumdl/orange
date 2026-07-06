@@ -2,3 +2,4 @@
 - Exploring IPFS fundamentals.
 - Learning about blockchain bridges.
 - Exploring zk rollups conceptually.
+- Adding more structured development logs.
