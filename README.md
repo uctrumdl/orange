@@ -3,3 +3,4 @@
 - Learning about blockchain bridges.
 - Exploring zk rollups conceptually.
 - Adding more structured development logs.
+- Learning about zero knowledge proofs basics.
