@@ -5,3 +5,4 @@
 - Adding more structured development logs.
 - Learning about zero knowledge proofs basics.
 - Studying historical blockchain exploits.
+- Learning about snapshot voting systems.
