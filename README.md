@@ -6,3 +6,4 @@
 - Learning about zero knowledge proofs basics.
 - Studying historical blockchain exploits.
 - Learning about snapshot voting systems.
+- Exploring hackathon participation ideas.
