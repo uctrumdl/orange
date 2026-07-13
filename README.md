@@ -7,3 +7,4 @@
 - Studying historical blockchain exploits.
 - Learning about snapshot voting systems.
 - Exploring hackathon participation ideas.
+- Studying testing frameworks for Solidity.
