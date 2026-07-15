@@ -9,3 +9,4 @@
 - Exploring hackathon participation ideas.
 - Studying testing frameworks for Solidity.
 - Reviewing authentication mechanisms.
+- Exploring cross chain messaging systems.
