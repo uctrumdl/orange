@@ -10,3 +10,4 @@
 - Studying testing frameworks for Solidity.
 - Reviewing authentication mechanisms.
 - Exploring cross chain messaging systems.
+- Learning about on chain transparency.
