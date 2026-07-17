@@ -11,3 +11,4 @@
 - Reviewing authentication mechanisms.
 - Exploring cross chain messaging systems.
 - Learning about on chain transparency.
+- Exploring version control basics.
