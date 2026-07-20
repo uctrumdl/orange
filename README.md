@@ -12,3 +12,4 @@
 - Exploring cross chain messaging systems.
 - Learning about on chain transparency.
 - Exploring version control basics.
+- Researching Web3 development tools.
