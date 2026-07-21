@@ -13,3 +13,4 @@
 - Learning about on chain transparency.
 - Exploring version control basics.
 - Researching Web3 development tools.
+- Reviewing open source repositories.
