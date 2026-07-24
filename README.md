@@ -16,3 +16,4 @@
 - Reviewing open source repositories.
 - Reviewing blockchain consensus mechanisms.
 - Exploring NFT standards briefly.
+- Understanding rollups at a high level.
