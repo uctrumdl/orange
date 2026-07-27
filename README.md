@@ -17,3 +17,4 @@
 - Reviewing blockchain consensus mechanisms.
 - Exploring NFT standards briefly.
 - Understanding rollups at a high level.
+- Researching smart contract deployment flow.
