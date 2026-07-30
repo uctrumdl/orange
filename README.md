@@ -20,3 +20,4 @@
 - Researching smart contract deployment flow.
 - Exploring audit methodologies.
 - Adding learning reflections.
+- Adding small incremental updates.
