@@ -26,3 +26,4 @@
 ## August 2026
 - Adding final refinements to documentation.
 - Learning about snapshot voting systems.
+- Researching Web3 developer communities.
