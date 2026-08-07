@@ -28,3 +28,4 @@
 - Learning about snapshot voting systems.
 - Researching Web3 developer communities.
 - Studying testing frameworks for Solidity.
+- Learning about proof of stake design.
