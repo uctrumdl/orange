@@ -29,3 +29,4 @@
 - Researching Web3 developer communities.
 - Studying testing frameworks for Solidity.
 - Learning about proof of stake design.
+- Learning about oracle integration basics.
