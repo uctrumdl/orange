@@ -30,3 +30,4 @@
 - Studying testing frameworks for Solidity.
 - Learning about proof of stake design.
 - Learning about oracle integration basics.
+- Learning about on chain transparency.
