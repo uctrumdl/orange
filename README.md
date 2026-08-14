@@ -33,3 +33,4 @@
 - Learning about on chain transparency.
 - Tracking daily progress
 - Learning about nodes
+- Learning liquidity basics
