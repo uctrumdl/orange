@@ -34,3 +34,4 @@
 - Tracking daily progress
 - Learning about nodes
 - Learning liquidity basics
+- Studying staking pools
