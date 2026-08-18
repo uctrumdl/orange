@@ -35,3 +35,4 @@
 - Learning about nodes
 - Learning liquidity basics
 - Studying staking pools
+- Exploring cross chain tools
