@@ -36,3 +36,4 @@
 - Learning liquidity basics
 - Studying staking pools
 - Exploring cross chain tools
+- Reviewing NFT standards
