@@ -37,3 +37,4 @@
 - Studying staking pools
 - Exploring cross chain tools
 - Reviewing NFT standards
+- Reviewing staking models
