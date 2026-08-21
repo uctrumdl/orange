@@ -38,3 +38,4 @@
 - Exploring cross chain tools
 - Reviewing NFT standards
 - Reviewing staking models
+- Studying network sync
