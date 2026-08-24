@@ -39,3 +39,4 @@
 - Reviewing NFT standards
 - Reviewing staking models
 - Studying network sync
+- Studying indexing services
