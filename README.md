@@ -41,3 +41,4 @@
 - Studying network sync
 - Studying indexing services
 - Reviewing validator rewards
+- Reviewing validation
