@@ -42,3 +42,4 @@
 - Studying indexing services
 - Reviewing validator rewards
 - Reviewing validation
+- Reviewing governance
