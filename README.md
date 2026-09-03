@@ -43,3 +43,6 @@
 - Reviewing validator rewards
 - Reviewing validation
 - Reviewing governance
+
+## September 2026
+- Updating structure
