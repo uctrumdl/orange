@@ -46,3 +46,4 @@
 
 ## September 2026
 - Updating structure
+- Improving headings
