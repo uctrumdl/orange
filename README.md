@@ -49,3 +49,4 @@
 - Improving headings
 - Improving structure
 - Updating markdown
+- Exploring staking
