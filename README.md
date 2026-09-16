@@ -50,3 +50,4 @@
 - Improving structure
 - Updating markdown
 - Exploring staking
+- Exploring scalability
