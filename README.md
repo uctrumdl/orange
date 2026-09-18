@@ -51,3 +51,4 @@
 - Updating markdown
 - Exploring staking
 - Exploring scalability
+- Studying token supply
