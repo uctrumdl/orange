@@ -52,3 +52,4 @@
 - Exploring staking
 - Exploring scalability
 - Studying token supply
+- Reviewing audits again
