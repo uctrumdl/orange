@@ -53,3 +53,4 @@
 - Exploring scalability
 - Studying token supply
 - Reviewing audits again
+- Exploring backend ideas
