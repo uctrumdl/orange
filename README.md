@@ -55,3 +55,6 @@
 - Reviewing audits again
 - Exploring backend ideas
 - Reviewing backend flow
+
+## October 2026
+- Improving my Git workflow step by step.
