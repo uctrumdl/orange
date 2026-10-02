@@ -57,4 +57,6 @@
 - Reviewing backend flow
 
 ## October 2026
+- Learning about GitHub collaboration tools.
+## October 2026
 - Improving my Git workflow step by step.
