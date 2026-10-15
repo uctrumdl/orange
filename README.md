@@ -62,3 +62,4 @@
 - Testing small updates frequently.
 - Adding development roadmap ideas.
 - Adding new learning milestones.
+- Learning about DAO structures.
