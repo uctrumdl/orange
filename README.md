@@ -63,3 +63,4 @@
 - Adding development roadmap ideas.
 - Adding new learning milestones.
 - Learning about DAO structures.
+- Understanding blockchain explorers.
