@@ -65,3 +65,4 @@
 - Learning about DAO structures.
 - Understanding blockchain explorers.
 - Exploring GitHub Actions basics.
+- Exploring staking concepts.
