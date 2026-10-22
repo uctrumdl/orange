@@ -67,3 +67,4 @@
 - Exploring GitHub Actions basics.
 - Exploring staking concepts.
 - Improving documentation formatting again.
+- Improving consistency in updates.
