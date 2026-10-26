@@ -69,3 +69,4 @@
 - Improving documentation formatting again.
 - Improving consistency in updates.
 - Improving understanding of decentralized storage.
+- Learning about blockchain bridges.
