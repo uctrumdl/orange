@@ -70,3 +70,4 @@
 - Improving consistency in updates.
 - Improving understanding of decentralized storage.
 - Learning about blockchain bridges.
+- Reviewing optimistic rollups structure.
