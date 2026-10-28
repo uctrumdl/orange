@@ -71,3 +71,4 @@
 - Improving understanding of decentralized storage.
 - Learning about blockchain bridges.
 - Reviewing optimistic rollups structure.
+- Learning about zero knowledge proofs basics.
