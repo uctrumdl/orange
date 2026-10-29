@@ -72,3 +72,4 @@
 - Learning about blockchain bridges.
 - Reviewing optimistic rollups structure.
 - Learning about zero knowledge proofs basics.
+- Exploring security audit case studies.
