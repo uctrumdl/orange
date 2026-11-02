@@ -74,3 +74,6 @@
 - Learning about zero knowledge proofs basics.
 - Exploring security audit case studies.
 - Learning about snapshot voting systems.
+
+## November 2026
+- Researching Web3 developer communities.
