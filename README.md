@@ -78,3 +78,4 @@
 ## November 2026
 - Researching Web3 developer communities.
 - Studying testing frameworks for Solidity.
+- Exploring distributed consensus theory.
